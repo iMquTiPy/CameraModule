@@ -1,2 +1,4 @@
 # CameraModule
-Basic programme to open n close camera - OPEN- run it
+Basic programme to open n close camera - 
+OPEN- run the file.
+CLOSE - press escape key.
